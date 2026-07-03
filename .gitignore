@@ -1,0 +1,7 @@
+data/*.csv
+data/*.zip
+data/desktop.ini
+__pycache__/
+.venv/
+.env
+*.key
